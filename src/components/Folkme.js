@@ -33,4 +33,3 @@ export default class Folkme extends Component {
   }
 }
 
-// Ref: http://tholman.com/github-corners/
